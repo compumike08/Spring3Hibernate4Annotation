@@ -7,7 +7,6 @@ tmp/**
 tmp/**/*
 *.tmp
 *.bak
-*.classpath
 *.settings/
 
 /build/
