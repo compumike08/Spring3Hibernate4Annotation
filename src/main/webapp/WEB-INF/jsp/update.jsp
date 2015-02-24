@@ -10,6 +10,7 @@
 			<form:label path="firstName">First Name</form:label><form:input path="firstName" />
 			<form:label path="lastName">Last Name</form:label><form:input path="lastName" />
 			<form:label path="password">Password</form:label><form:password  path="password" />
+			<form:hidden path="createdOn" />
 			<button type="submit" id="save">Update User</button> <a href="/">Go Home</a>
 		</form:form>
 	</div>
